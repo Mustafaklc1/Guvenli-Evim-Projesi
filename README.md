@@ -56,4 +56,4 @@ Oyun kontrolleri FPS (Birinci Şahıs) kamerasına uygun olarak tasarlanmıştı
 ## 📺 Oynanış Videosu
 Simülasyonun mekaniklerini, sahneler arası geçişleri ve oyun içi detayları uygulamalı olarak görmek için aşağıdaki bağlantıdan tanıtım/oynanış videomuzu izleyebilirsiniz:
 
-▶️ **[Oynanış Videosunu İzlemek İçin Tıklayın](BURAYA_YOUTUBE_LINKINI_YAPISTIR)**
+▶️ **[Oynanış Videosunu İzlemek İçin Tıklayın](https://youtu.be/sjSAz0swbn0)**
